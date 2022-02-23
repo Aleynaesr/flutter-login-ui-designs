@@ -1,4 +1,4 @@
-# Flutter UI Design Examples 🎈
+# Flutter Login UI Designs 🎈
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleynaesr&count_bg=%23151515&title_bg=%23FF7BD4&icon=flutter.svg&icon_color=%2302D8FF&title=hits&edge_flat=false"/></a>
 
 #### This repository contains the flutter Login UIs
@@ -22,7 +22,7 @@
 
 <hr> </hr>
 
-## 1. Login UI 2
+## 2. Login UI 2
  
  <table>
    <tbody>
